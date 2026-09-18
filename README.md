@@ -1,6 +1,8 @@
 # blm
 Fit a binomial linear regression model Use blm With (In) R Software
 
+https://www.youtube.com/watch?v=67vUQbSK0L0
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
